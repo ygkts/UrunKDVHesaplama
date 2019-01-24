@@ -1,0 +1,9 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\bin\Debug\u2_UrunKdvHesaplama.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\bin\Debug\u2_UrunKdvHesaplama.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\bin\Debug\u2_UrunKdvHesaplama.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\obj\Debug\u2_UrunKdvHesaplama.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\obj\Debug\u2_UrunKdvHesaplama.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\obj\Debug\u2_UrunKdvHesaplama.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\obj\Debug\u2_UrunKdvHesaplama.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\obj\Debug\u2_UrunKdvHesaplama.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta6\Kurs_28Aralık2018\u2_UrunKdvHesaplama\u2_UrunKdvHesaplama\obj\Debug\u2_UrunKdvHesaplama.pdb
